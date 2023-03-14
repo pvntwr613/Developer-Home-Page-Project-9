@@ -7,7 +7,7 @@
 
 **Mobile Responsive Website**:
 
-**The project took ***11 Hours*** to complete.** 
+**The project took ***12 Hours*** to complete.** 
 
 
 ![image](./9.png)
